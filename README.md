@@ -1,4 +1,4 @@
-# Jogo da forca (Canal WDEV)
+# Jogo da forca
 
 ## Project setup
 ```
